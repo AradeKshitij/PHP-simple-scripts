@@ -1,0 +1,69 @@
+
+.login-form {
+    background-color: #F5F5F5;
+    width: 300px;
+    height: 250px;
+    margin: auto;
+    margin-top: 290px;
+    border: 1px solid #006699;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 1px 1px 10px #006699;
+}
+
+.main {
+	width: 100%;
+	height: 100%;
+	background-color: #abcdef;
+	position: fixed;
+	top :0;
+	bottom: 0;
+}
+
+.create-acc {
+	width: 100%;
+	height: 100%;
+	background-color: #aabbcc;
+	position: fixed;
+	top :0;
+	bottom: 0;
+}
+
+.new-acct {
+	margin-left: 20px;
+}
+
+.field-margin {
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
